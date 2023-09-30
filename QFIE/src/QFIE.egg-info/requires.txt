@@ -1,0 +1,11 @@
+qiskit>=0.34.2
+
+[docs]
+sphinx>=5.1.1
+sphinx-rtd-theme>=1.0.0
+sphinxcontrib-napoleon>=0.7
+nbsphinx>=0.8.9
+
+[examples]
+matplotlib
+jupyter==1.0.0

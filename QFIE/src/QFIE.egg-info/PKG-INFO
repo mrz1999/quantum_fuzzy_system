@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: QFIE
+Version: 1.1.0
+Summary: Quantum Fuzzy Inference Engines with Python
+Home-page: https://github.com/Quasar-UniNA/QFIE
+Author: R. Schiattarella
+Author-email: roberto.schiattarella@unina.it
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Unix
+Classifier: Topic :: Scientific/Engineering :: Computer Science
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: examples
+Provides-Extra: docs
+
+# Quantum Fuzzy Inference Engine [![Made at Quasar!](https://img.shields.io/badge/Unina-%20QuasarLab-blue)](http://quasar.unina.it) [![Made at Quasar!](https://img.shields.io/badge/Documentation-%20Readthedocs-brightgreen)](https://qfie.readthedocs.io/en/latest/index.html) [![Made at Quasar!](https://img.shields.io/badge/Related-%20Paper-orange)](https://ieeexplore.ieee.org/document/9869303)
+
+This repo contains the code for executing the quantum fuzzy inference engine proposed in:
+
+**''G. Acampora, R. Schiattarella and A. Vitiello, "On the Implementation of Fuzzy Inference Engines on Quantum Computers,"
+    in IEEE Transactions on Fuzzy Systems, 2022, doi: 10.1109/TFUZZ.2022.3202348.''**
+
+
+## How to install
+
+The package can be installed with Python's pip package manager.
+
+```bash
+git clone https://github.com/Quasar-UniNA/QFIE.git QFIE
+cd QFIE
+pip install .
+```
+
+This process will copy the `QFIE` library to your environment python path.
+
+
+
+## Credits
+
+Please cite the work using the following Bibtex entry:
+
+```text
+@ARTICLE{9869303,
+  author={Acampora, Giovanni and Schiattarella, Roberto and Vitiello, Autilia},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={On the Implementation of Fuzzy Inference Engines on Quantum Computers}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TFUZZ.2022.3202348}}
+
+```

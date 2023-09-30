@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+src/QFIE/FuzzyEngines.py
+src/QFIE/QFS.py
+src/QFIE/__init__.py
+src/QFIE/fuzzy_partitions.py
+src/QFIE.egg-info/PKG-INFO
+src/QFIE.egg-info/SOURCES.txt
+src/QFIE.egg-info/dependency_links.txt
+src/QFIE.egg-info/not-zip-safe
+src/QFIE.egg-info/requires.txt
+src/QFIE.egg-info/top_level.txt
